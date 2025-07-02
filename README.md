@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <!-- Можно использовать реальные GitHub-статистики -->
-![Alex123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=tokyonight)
+![8KOHAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=tokyonight)
 
 ## 🎯 Fun Facts
 
