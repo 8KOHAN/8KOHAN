@@ -1,4 +1,4 @@
-# Hello World 🌍 I'm Alex123 👋
+# Hello World 🌍 I'm KOHAN 👋
 
 🚀 Aspiring Developer | 🌱 Currently learning everything I can | 📍 From Ukraine
 
@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <!-- Можно использовать реальные GitHub-статистики -->
-![8KOHAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex123&show_icons=true&theme=tokyonight)
+![8KOHAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=8KOHAN&show_icons=true&theme=tokyonight)
 
 ## 🎯 Fun Facts
 
