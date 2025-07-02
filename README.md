@@ -8,3 +8,5 @@
     </td>
   </tr>
 </table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=8KOHAN&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
