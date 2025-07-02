@@ -8,5 +8,3 @@
     </td>
   </tr>
 </table>
-
-![](https://komarev.com/ghpvc/?username=8KOHAN&color=blue&style=flat)
