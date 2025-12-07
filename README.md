@@ -1,16 +1,10 @@
 <table>
   <tr>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=8KOHAN&show_icons=true&theme=tokyonight&cache_seconds=7200" 
-        alt="GitHub Stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=8KOHAN&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=8KOHAN&layout=compact&theme=tokyonight&cache_seconds=7200" 
-        alt="Top Languages"
-      />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8KOHAN&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
