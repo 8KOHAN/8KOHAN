@@ -1,149 +1,135 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,50:5c481e,100:c9a34a&height=200&section=header&text=Geralt%20Roger&fontSize=52&fontColor=f5e6bd&fontAlignY=38&desc=СТАНДАРТ%20ЗАЛИШАЄТЬСЯ%20СТАНДАРТОМ&descAlignY=60&descSize=13" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,35:211b10,70:6b5427,100:d7b96f&height=230&section=header&text=Geralt%20Roger&fontSize=58&fontColor=f5e6bd&fontAlignY=37&desc=ВЛАСНИЙ%20ШЛЯХ.%20ВЛАСНИЙ%20СТАНДАРТ.&descAlignY=59&descSize=13&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <samp>РОЗРОБКА ПРОГРАМНОГО ЗАБЕЗПЕЧЕННЯ &nbsp; / &nbsp; PYTHON &nbsp; / &nbsp; BACKEND</samp>
+  <samp>РОЗРОБКА &nbsp; / &nbsp; PYTHON &nbsp; / &nbsp; АВТОМАТИЗАЦІЯ &nbsp; / &nbsp; BACKEND</samp>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:151515,100:c9a34a&height=2&section=header" width="65%" />
-</p>
-
-## ПРО МЕНЕ
-
-Розробка починається з ідеї. Її цінність визначає те, на що вона здатна після втілення.
-
-Мій напрям — Python, автоматизація та серверна логіка. Від окремих інструментів до систем, у яких кожна частина має своє призначення.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:151515,100:302719&height=75&section=header&text=01%20%2F%20ІНЖЕНЕРІЯ&fontSize=23&fontColor=d6b76b&fontAlign=50&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130d,50:9b7a38,100:17130d&height=2&section=header" width="72%" />
 </p>
 
 <p align="center">
-  <samp>PYTHON · АВТОМАТИЗАЦІЯ · BACKEND-СИСТЕМИ</samp>
+  <samp>01 — ПРОФІЛЬ</samp>
+</p>
+
+Я працюю з Python, автоматизацією та backend-розробкою. Тут зібрані проєкти, практичні експерименти й рішення, які перетворюють задум на працюючий інструмент.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:342a17,100:0d0d0d&height=76&section=header&text=НАПРЯМИ%20РОБОТИ&fontSize=23&fontColor=e0c27a&fontAlign=50&fontAlignY=55" width="100%" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### PYTHON
-
-Мова, що перетворює задум на реалізацію. Практичні завдання, інструменти та програмні рішення.
-
-</td>
+      <p><sub>01 / МОВА</sub></p>
+      <h3>PYTHON</h3>
+      Практичні рішення, програмні експерименти та інструменти для конкретних завдань.
+    </td>
     <td width="50%" valign="top">
-
-### АВТОМАТИЗАЦІЯ
-
-Telegram-боти та логіка, що перетворюють повторювані процеси на структуровані системи.
-
-</td>
+      <p><sub>02 / АВТОМАТИЗАЦІЯ</sub></p>
+      <h3>TELEGRAM BOTS</h3>
+      Боти та автоматизовані процеси, побудовані на Python.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><sub>03 / СИСТЕМИ</sub></p>
+      <h3>BACKEND</h3>
+      Серверна логіка та основа, на якій працює продукт.
+    </td>
+    <td width="50%" valign="top">
+      <p><sub>04 / ПРАКТИКА</sub></p>
+      <h3>EXPERIMENTS</h3>
+      Завдання, перевірка підходів і вдосконалення навичок.
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302719,100:151515&height=1&section=header" width="100%" />
-</p>
-
-## ОБРАНІ ПРОЄКТИ
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:151515,50:45371d,100:151515&height=65&section=header&text=02%20%2F%20КОЛЕКЦІЯ%20РОБІТ&fontSize=20&fontColor=f2dfae&fontAlign=50&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:6b5427,100:0d0d0d&height=76&section=header&text=ОБРАНІ%20ПРОЄКТИ&fontSize=23&fontColor=f5e6bd&fontAlign=50&fontAlignY=55" width="100%" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 01 — PYTHON
-
-**Python-in-Practice**
-
-Практичні завдання, експерименти та робота з Python.
-
-[ПЕРЕГЛЯНУТИ ПРОЄКТ →](https://github.com/8KOHAN/Python-in-Practice)
-
-</td>
+      <p><sub>PROJECT / 01</sub></p>
+      <h3>Python-in-Practice</h3>
+      Практика та експерименти з Python.
+      <br/><br/>
+      <a href="https://github.com/8KOHAN/Python-in-Practice">ПЕРЕГЛЯНУТИ ПРОЄКТ ↗</a>
+    </td>
     <td width="50%" valign="top">
-
-### 02 — АВТОМАТИЗАЦІЯ
-
-**Telegram Bots**
-
-Боти та інструменти автоматизації на Python.
-
-[ПЕРЕГЛЯНУТИ ПРОЄКТ →](https://github.com/8KOHAN/Telegram-bots-on-python)
-
-</td>
+      <p><sub>PROJECT / 02</sub></p>
+      <h3>Telegram Bots</h3>
+      Боти та інструменти автоматизації.
+      <br/><br/>
+      <a href="https://github.com/8KOHAN/Telegram-bots-on-python">ПЕРЕГЛЯНУТИ ПРОЄКТ ↗</a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 03 — РОЗРОБКА
-
-**IT-STEP**
-
-Навчальні проєкти та технічна практика.
-
-[ПЕРЕГЛЯНУТИ ПРОЄКТ →](https://github.com/8KOHAN/IT-STEP)
-
-</td>
+      <p><sub>PROJECT / 03</sub></p>
+      <h3>IT-STEP</h3>
+      Навчальні роботи та програмна практика.
+      <br/><br/>
+      <a href="https://github.com/8KOHAN/IT-STEP">ПЕРЕГЛЯНУТИ ПРОЄКТ ↗</a>
+    </td>
     <td width="50%" valign="top">
-
-### 04 — ЕКСПЕРИМЕНТИ
-
-**Test Tasks**
-
-Розв'язання завдань, перевірка підходів та окремі програмні рішення.
-
-[ПЕРЕГЛЯНУТИ ПРОЄКТ →](https://github.com/8KOHAN/test-tasks)
-
-</td>
+      <p><sub>PROJECT / 04</sub></p>
+      <h3>Test Tasks</h3>
+      Розв’язання завдань і перевірка технічних підходів.
+      <br/><br/>
+      <a href="https://github.com/8KOHAN/test-tasks">ПЕРЕГЛЯНУТИ ПРОЄКТ ↗</a>
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:151515,100:5c481e&height=75&section=header&text=03%20%2F%20ЛІТОПИС&fontSize=23&fontColor=d6b76b&fontAlign=50&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:342a17,100:0d0d0d&height=76&section=header&text=АКТИВНІСТЬ&fontSize=23&fontColor=e0c27a&fontAlign=50&fontAlignY=55" width="100%" />
 </p>
 
+<!-- STATS:START -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <samp>РЕПОЗИТОРІЇ</samp><br/>
+      <sub>РЕПОЗИТОРІЇ</sub><br/>
       <strong>90</strong>
     </td>
     <td align="center" width="33%">
-      <samp>ВНЕСКИ ЗА РІК</samp><br/>
+      <sub>ВНЕСКИ ЗА РІК</sub><br/>
       <strong>9 400</strong>
     </td>
     <td align="center" width="33%">
-      <samp>ПІДПИСНИКИ</samp><br/>
+      <sub>ПІДПИСНИКИ</sub><br/>
       <strong>80</strong>
     </td>
   </tr>
 </table>
+<!-- STATS:END -->
 
 <p align="center">
-  <sub>КОЖЕН ВНЕСОК — ЧАСТИНА БІЛЬШОГО РЕЗУЛЬТАТУ.</sub>
+  <sub>ЦИФРИ ФІКСУЮТЬ АКТИВНІСТЬ. РОБОТА ВИЗНАЧАЄ ЇЇ ЗМІСТ.</sub>
 </p>
 
-## ПРИНЦИП
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:151515,50:302719,100:151515&height=110&section=header&text=ІДЕЯ%20СТАЄ%20СИСТЕМОЮ&fontSize=24&fontColor=f2dfae&fontAlign=50&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130d,50:9b7a38,100:17130d&height=2&section=header" width="48%" />
 </p>
 
-Якість визначається не гучністю обіцянок, а тим, що витримує перевірку практикою.
-
-Код — це засіб. Архітектура — це порядок. Завершений результат — це аргумент.
+<p align="center">
+  <samp>ПРИНЦИП</samp>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a34a,50:5c481e,100:151515&height=120&section=footer" width="100%" />
+  <strong>ІДЕЯ МАЄ ЦІННІСТЬ, КОЛИ СТАЄ СИСТЕМОЮ.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d7b96f,50:6b5427,100:090909&height=125&section=footer" width="100%" />
 </p>
 
 <p align="center">
   <samp>GERALT ROGER &nbsp; / &nbsp; 8KOHAN</samp><br/>
-  <sub>ВЛАСНИЙ ШЛЯХ. ВЛАСНИЙ СТАНДАРТ.</sub>
+  <sub>ПРОЄКТУВАТИ. СТВОРЮВАТИ. ВДОСКОНАЛЮВАТИ.</sub>
 </p>
