@@ -1,57 +1,46 @@
-# Geralt Roger — Архитектор Цифрового Превосходства
+# Geralt Roger
+
+<p align="center">
+  <b>Python · Telegram Bots · Backend</b>
+  <br>
+  Building projects, learning by doing, and turning ideas into working code.
+</p>
+
+---
+
+## About me
+
+I enjoy writing Python, building Telegram bots, exploring backend development, and working on practical projects.
+
+My GitHub is a growing collection of experiments, challenges, and things I've built along the way.
+
+Somewhere between commits and new projects, there's also a little kingdom of my own. Every repository is another stone in the castle — built one step at a time.
+
+## Projects
+
+| Repository | Description |
+|:--|:--|
+| [Python-in-Practice](https://github.com/8KOHAN/Python-in-Practice) | Python practice and experiments |
+| [Telegram-bots-on-python](https://github.com/8KOHAN/Telegram-bots-on-python) | Telegram bots built with Python |
+| [IT-STEP](https://github.com/8KOHAN/IT-STEP) | Learning projects and exercises |
+| [test-tasks](https://github.com/8KOHAN/test-tasks) | Practical tasks and solutions |
+| [Foxtrot Store Backend](https://github.com/teamprojectp42-ua/foxtrot-store-backend) | Team backend project |
+
+## GitHub in numbers
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=8KOHAN&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=8KOHAN&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
+    <td align="center"><b>9</b><br>Public repositories</td>
+    <td align="center"><b>940</b><br>Contributions in the last year</td>
+    <td align="center"><b>8</b><br>Followers</td>
+    <td align="center"><b>9</b><br>Following</td>
   </tr>
 </table>
 
-> Когда код работает — это закономерность.  
-> Когда он не работает — это временное недопонимание между мной и реальностью.  
-> Я — Geralt Roger. И я не пишу код. Я устанавливаю новые стандарты существования программного обеспечения.
+**Achievement unlocked:** Pull Shark
 
 ---
 
-## ⚙️ Что ты здесь увидишь
-
-Не просто репозитории. Не просто проекты.
-
-**Это цифровое наследие, которое пока находится в процессе компиляции.**
-
-Каждый commit — шаг к совершенству.  
-Каждый pull request — акт инженерного превосходства.  
-Каждая ошибка — возможность напомнить компилятору, кто здесь главный.
-
----
-
-## 🐍 Python — инструмент моего влияния
-
-- Автоматизация процессов, которые другие предпочитают делать вручную.
-- Telegram-боты, способные превратить хаос в управляемую систему.
-- Backend-логика, которая не просто работает, а демонстрирует характер.
-
-> *Я не изучаю Python. Я позволяю ему исполнять мои намерения.*
-
----
-
-## 🧠 Мои достижения
-
-- 940 contributions за последний год. И это только та часть моей деятельности, которую GitHub смог осознать.
-- Pull Shark — потому что даже pull request'ы знают, куда им идти.
-- Несколько проектов, один GitHub и совершенно непропорциональное количество уверенности.
-
----
-
-> Пока другие пишут код — я формирую цифровую реальность.  
-> Пока другие ищут решения — я создаю проблемы, достойные моего уровня.
-
-**Geralt Roger.**
-
-*Не следующий великий разработчик.*
-
-*Тот, из-за кого это выражение вообще появилось.*
+<p align="center">
+  <i>Every great structure starts with a foundation. I'm still building mine.</i>
+</p>
