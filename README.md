@@ -1,216 +1,83 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:211b10,70:6b5427,100:c9aa60&height=240&section=header&text=GERALT%20ROGER&fontSize=54&fontColor=f3e5c2&fontAlignY=38&desc=DISCIPLINE%20OVER%20NOISE&descSize=13&descAlignY=59&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:211b10,70:6b5427,100:c9aa60&height=240&section=header&text=Geralt%20Roger&fontSize=56&fontColor=f3e5c2&fontAlignY=38&desc=THE%20PATH%20IS%20BUILT%2C%20NOT%20GIVEN&descSize=13&descAlignY=59" width="100%" />
 </p>
 
 <p align="center">
-  <sub>8KOHAN &nbsp; / &nbsp; PYTHON ENGINEERING &nbsp; / &nbsp; INDEPENDENT PROJECTS</sub>
+  <sub>8KOHAN &nbsp; · &nbsp; A MIND IN CONSTANT MOTION</sub>
 </p>
-
-<br>
-
-<table>
-<tr>
-<td width="100%" bgcolor="#0d0d0d">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&section=header&text=01%20%20%E2%80%94%20%20THE%20MINDSET&fontSize=14&fontColor=c9aa60&fontAlign=left&fontAlignY=65" width="100%" />
-
-<h2>Не шум. Не показуха. Результат.</h2>
-
-Я цікавлюся розробкою не заради самого коду. Мене цікавить момент, коли складна задача набуває чіткої форми, хаотичний процес стає системою, а ідея перетворюється на інструмент, яким справді можна користуватися.
-
-<br>
-
-<sub>ПРИНЦИП ПРОСТИЙ: СПОЧАТКУ ЗМІСТ — ПОТІМ ФОРМА.</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top" bgcolor="#101010">
-
-<sub>01 / FOUNDATION</sub>
-
-<h3>Python</h3>
-
-Мова як інструмент для створення практичних рішень: від невеликих скриптів до більших систем.
-
-</td>
-<td width="50%" valign="top" bgcolor="#17140e">
-
-<sub>02 / AUTOMATION</sub>
-
-<h3>Automation</h3>
-
-Прибирати зайві дії, спрощувати повторювані процеси та змушувати інструменти працювати на користь людини.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" bgcolor="#17140e">
-
-<sub>03 / INTEGRATION</sub>
-
-<h3>Telegram & APIs</h3>
-
-Боти, інтеграції та взаємодія між сервісами. Логіка, яка з'єднує окремі частини в одне ціле.
-
-</td>
-<td width="50%" valign="top" bgcolor="#101010">
-
-<sub>04 / EXPLORATION</sub>
-
-<h3>Experiments</h3>
-
-Практика, тестування підходів і нові задачі, що допомагають виходити за межі знайомого.
-
-</td>
-</tr>
-</table>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130c,100:352918&height=66&section=header&text=SELECTED%20WORKS&fontSize=22&fontColor=e4cc91&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=2&section=header" width="70%" />
 </p>
 
-<table>
-<tr>
-<td width="64" align="center" valign="top">
-<sub>01</sub>
-</td>
-<td valign="top">
+<h2 align="center">Кожен шлях починається з цікавості.</h2>
 
-### [Python-in-Practice](https://github.com/8KOHAN/Python-in-Practice)
+<p align="center">
+  Я не шукаю готових відповідей там, де можна зрозуміти сам принцип.
+  Мене захоплює процес — розібрати складне на просте, побачити логіку
+  за хаосом і поступово перетворити задум на щось реальне.
+</p>
 
-<sub>PYTHON / PRACTICE</sub>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=85" width="100%" />
+</p>
 
-Задачі, напрацювання та практичний шлях через Python.
-
-</td>
-<td width="70" align="right" valign="middle">
-<sub>REPO ↗</sub>
-</td>
-</tr>
-<tr>
-<td colspan="3"><hr></td>
-</tr>
-<tr>
-<td width="64" align="center" valign="top">
-<sub>02</sub>
-</td>
-<td valign="top">
-
-### [Telegram-bots-on-python](https://github.com/8KOHAN/Telegram-bots-on-python)
-
-<sub>BOTS / AUTOMATION</sub>
-
-Розробка Telegram-ботів і логіки автоматизації.
-
-</td>
-<td width="70" align="right" valign="middle">
-<sub>REPO ↗</sub>
-</td>
-</tr>
-<tr>
-<td colspan="3"><hr></td>
-</tr>
-<tr>
-<td width="64" align="center" valign="top">
-<sub>03</sub>
-</td>
-<td valign="top">
-
-### [IT-STEP](https://github.com/8KOHAN/IT-STEP)
-
-<sub>LEARNING / DEVELOPMENT</sub>
-
-Навчальні проєкти та накопичення практичного досвіду.
-
-</td>
-<td width="70" align="right" valign="middle">
-<sub>REPO ↗</sub>
-</td>
-</tr>
-<tr>
-<td colspan="3"><hr></td>
-</tr>
-<tr>
-<td width="64" align="center" valign="top">
-<sub>04</sub>
-</td>
-<td valign="top">
-
-### [test-tasks](https://github.com/8KOHAN/test-tasks)
-
-<sub>LOGIC / PROBLEM SOLVING</sub>
-
-Окремі завдання, перевірка рішень і робота з логікою.
-
-</td>
-<td width="70" align="right" valign="middle">
-<sub>REPO ↗</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <sub>EVERY DETAIL HAS A PURPOSE. EVERY DECISION LEAVES A MARK.</sub>
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130c,100:352918&height=66&section=header&text=THE%20RECORD&fontSize=22&fontColor=e4cc91&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130c,100:352918&height=54&section=header&text=THE%20CRAFT&fontSize=20&fontColor=e4cc91&fontAlignY=55" width="100%" />
 </p>
-
-<table>
-<tr>
-<td align="center" width="25%" bgcolor="#101010">
-<h2>90</h2>
-<sub>REPOSITORIES</sub>
-</td>
-<td align="center" width="25%" bgcolor="#17140e">
-<h2>9,400</h2>
-<sub>CONTRIBUTIONS</sub>
-</td>
-<td align="center" width="25%" bgcolor="#101010">
-<h2>80</h2>
-<sub>FOLLOWERS</sub>
-</td>
-<td align="center" width="25%" bgcolor="#17140e">
-<h2>90</h2>
-<sub>FOLLOWING</sub>
-</td>
-</tr>
-</table>
 
 <p align="center">
-  <sub>ЦИФРИ ПОКАЗУЮТЬ АКТИВНІСТЬ. ПРОЄКТИ ПОКАЗУЮТЬ РІВЕНЬ.</sub>
+  Не все приходить одразу. Частина знань здобувається через практику,
+  частина — через помилки, а решта починається з питання:
+  <i>«А що, якщо спробувати інакше?»</i>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>TOOLS ARE THE MEDIUM. UNDERSTANDING IS THE FOUNDATION.</sub>
 </p>
 
 <br>
 
-<table>
-<tr>
-<td width="5" bgcolor="#b99a53"></td>
-<td bgcolor="#0d0d0d">
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=1200&q=85" width="100%" />
+</p>
 
-<p><sub>FINAL NOTE /  THE STANDARD</sub></p>
+<h2 align="center">Не поспішати. Не зупинятися.</h2>
 
-<h2>Ідея нічого не варта, доки не починає працювати.</h2>
+<p align="center">
+  Для мене розвиток — це не спроба зібрати якомога більше назв
+  у своєму профілі. Це здатність сьогодні розуміти більше, ніж учора,
+  бачити власні помилки й знаходити кращі рішення там, де раніше
+  бачив лише перешкоди.
+</p>
 
-Не кожен експеримент стає проєктом. Не кожен проєкт стає завершеним продуктом. Але кожен крок має наближати до кращого рішення.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130c,100:352918&height=2&section=header" width="65%" />
+</p>
 
-</td>
-</tr>
-</table>
+<h2 align="center">Власний шлях. Власний стандарт.</h2>
 
-<br>
+<p align="center">
+  Не кожна спроба стає результатом. Не кожна ідея знаходить своє місце.
+  Але кожен досвід залишає щось, із чого можна побудувати наступний крок.
+</p>
+
+<p align="center">
+  <sub>GERALT ROGER / 8KOHAN</sub>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:392d18,100:080808&height=120&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <sub>GERALT ROGER &nbsp; / &nbsp; 8KOHAN</sub>
 </p>
