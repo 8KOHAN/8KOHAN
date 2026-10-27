@@ -93,6 +93,8 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff" alt="SOLID" />
 </p>
 
 <!-- Уровень 3: собственные бейджи Shields.io -->
@@ -104,7 +106,6 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/pytest-18181B?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
   <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" alt="WebSocket" />
   <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" alt="REST API" />
@@ -115,5 +116,4 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/Entity%20Framework%20Core-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="Entity Framework Core" />
   <img src="https://img.shields.io/badge/ADO.NET-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ADO.NET" />
   <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" alt="OOP" />
-  <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" alt="SOLID" />
 </p>
