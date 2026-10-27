@@ -123,8 +123,6 @@ Telegram-боты — одно из направлений, в котором я
   <!-- Боты и AI-разработка -->
   <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
   <img src="https://img.shields.io/badge/aiogram-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 
   <!-- Асинхронность, API и взаимодействие -->
   <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
