@@ -43,58 +43,65 @@ Telegram-боты — одно из направлений, в котором я
 
 ### ⚔ Арсенал короля
 
-<!-- Main icons: Skill Icons -->
+<!-- Уровень 1: большие иконки Skill Icons -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="64" height="64" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" height="64" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" height="64" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" height="64" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" height="64" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" height="64" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="64" height="64" alt="C Sharp" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="64" height="64" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" alt="Unreal Engine" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="64" height="64" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" height="64" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="64" height="64" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="64" height="64" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="64" height="64" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64" alt="GitHub Actions" />
 </p>
 
-<!-- AI tools -->
+<!-- Уровень 2: готовые бейджи из md-badges -->
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-000?logo=openai&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<!-- Technologies -->
+<!-- Уровень 3: собственные бейджи Shields.io -->
 <p>
-  <img src="https://img.shields.io/badge/Verse-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/aiogram-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-18181B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
-  <img src="https://img.shields.io/badge/pytest-18181B?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-18181B?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-18181B?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
-  <img src="https://img.shields.io/badge/OpenAPI-18181B?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" />
-  <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Redis-18181B?style=for-the-badge&logo=redis&logoColor=FF4438" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-18181B?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-  <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FSD-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ORM-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Verse-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Verse" />
+  <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UEFN" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/aiogram-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/pytest-18181B?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
+  <img src="https://img.shields.io/badge/JSON-18181B?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Fetch%20API-18181B?style=for-the-badge" alt="Fetch API" />
+  <img src="https://img.shields.io/badge/FSD-18181B?style=for-the-badge" alt="Feature-Sliced Design" />
+  <img src="https://img.shields.io/badge/ORM-18181B?style=for-the-badge" alt="ORM" />
+  <img src="https://img.shields.io/badge/Dapper-18181B?style=for-the-badge" alt="Dapper" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/ADO.NET-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ADO.NET" />
+  <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" alt="SOLID" />
 </p>
