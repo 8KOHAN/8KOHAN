@@ -82,10 +82,26 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
 </p>
 
+### ИИ-инструменты
+
 <p>
-  <img src="https://img.shields.io/badge/Claude%20Code-18181B?style=for-the-badge&logo=claude&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-18181B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-18181B?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" />
-  <img src="https://img.shields.io/badge/LLMs-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Tools-18181B?style=for-the-badge" />
+  <a href="https://claude.com/product/claude-code">
+    <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" alt="Claude Code" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://openai.com/codex/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gemini.google.com/">
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="48" height="48" alt="Gemini" />
+  </a>
+</p>
+
+<p>
+  <a href="https://claude.com/product/claude-code">Claude Code</a>
+  &nbsp; · &nbsp;
+  <a href="https://openai.com/codex/">OpenAI Codex</a>
+  &nbsp; · &nbsp;
+  <a href="https://gemini.google.com/">Gemini</a>
 </p>
