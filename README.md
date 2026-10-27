@@ -88,6 +88,7 @@ Telegram-боты — одно из направлений, в котором я
   <!-- API и документация -->
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" alt="Swagger" />
+  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" />
 
@@ -126,8 +127,6 @@ Telegram-боты — одно из направлений, в котором я
 
   <!-- Асинхронность, API и взаимодействие -->
   <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
-  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/Fetch%20API-18181B?style=for-the-badge" alt="Fetch API" />
   <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" alt="WebSocket" />
 
   <!-- Работа с данными и архитектура -->
