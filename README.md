@@ -45,7 +45,6 @@ Telegram-боты — одно из направлений, в котором я
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=aiogram&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="64" height="64" />
