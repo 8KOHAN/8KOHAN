@@ -58,8 +58,6 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="64" height="64" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" alt="Unreal Engine" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="64" height="64" alt="PyCharm" />
@@ -69,12 +67,14 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="64" height="64" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" height="64" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="64" height="64" alt="Ubuntu" />
   <img src="https://skillicons.dev/icons?i=android&theme=dark" width="64" height="64" alt="Android" />
 </p>
 
-<!-- Уровень 2: готовые бейджи -->
+<!-- Уровень 2: готовые бейджи md-badges -->
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude" />
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini" />
@@ -85,6 +85,9 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" alt="Firefox" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite badge" />
   <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" alt="NuGet" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm" />
   <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff" alt="pnpm" />
@@ -104,7 +107,7 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/pytest-18181B?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
-  <img src="https://img.shields.io/badge/JSON-18181B?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff" alt="JSON" />
   <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" alt="WebSocket" />
   <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" alt="REST API" />
   <img src="https://img.shields.io/badge/Fetch%20API-18181B?style=for-the-badge" alt="Fetch API" />
@@ -115,5 +118,4 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/ADO.NET-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ADO.NET" />
   <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" alt="SOLID" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox" />
 </p>
