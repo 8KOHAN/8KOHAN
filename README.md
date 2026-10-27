@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5c3508,18:9b5e0b,38:d99a22,55:ffd166,72:e8ad38,88:c88820,100:70420b&height=200&section=header&text=GERALT%20ROGER&fontSize=62&fontColor=fff5dc&fontAlignY=38&desc=АРХИТЕКТОР%20ЦИФРОВОЙ%20ЭВОЛЮЦИИ&descSize=16&descColor=ffe0a0&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5c3508,18:9b5e0b,38:d99a22,55:ffd166,72:e8ad38,88:c88820,100:70420b&height=200&section=header&text=GERALT%20ROGER&fontSize=62&fontColor=fff5dc&fontAlignY=38&desc=ОСНОВАТЕЛЬ%20НОВОГО%20ПОРЯДКА&descSize=16&descColor=ffe0a0&descAlignY=62)
 
 Я — **Геральт Роджер.** Если ты ищешь здесь привычные стандарты, сначала убедись, что готов подвергнуть сомнению всё, на чём они держатся.
 
