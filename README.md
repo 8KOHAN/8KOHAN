@@ -45,6 +45,7 @@ Telegram-боты — одно из направлений, в котором я
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" />
+  <img src="https://skillicons.dev/icons?i=aiogram&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="64" height="64" />
@@ -55,11 +56,19 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=mssql&theme=dark" width="64" height="64" />
+  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="64" height="64" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VERSE-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL%20Server-18181B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-18181B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-18181B?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
