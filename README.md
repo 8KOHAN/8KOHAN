@@ -44,7 +44,7 @@ Telegram-боты — одно из направлений, в котором я
 ### ⚔ Арсенал короля
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="80" height="80" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="80" />
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="80" />
   <img src="https://skillicons.dev/icons?i=asm&theme=dark" height="80" />
