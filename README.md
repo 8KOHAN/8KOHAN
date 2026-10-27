@@ -69,9 +69,7 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="64" height="64" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" height="64" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="64" height="64" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" width="64" height="64" alt="Android" />
 </p>
 
 <!-- Уровень 2: готовые бейджи md-badges -->
@@ -93,6 +91,8 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android" />
 </p>
 
 <!-- Уровень 3: собственные бейджи Shields.io -->
