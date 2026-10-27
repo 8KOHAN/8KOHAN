@@ -44,24 +44,24 @@ Telegram-боты — одно из направлений, в котором я
 ### ⚔ Арсенал короля
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" height="64" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=asm&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=go&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=cmake&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="80" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" height="80" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=asm&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=go&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=cmake&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark&size=64" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark&size=64" />
 </p>
