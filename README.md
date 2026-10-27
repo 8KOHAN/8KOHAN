@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:392000,20:805000,40:ffd700,55:fff0a0,75:c58b16,100:281500&height=200&section=header&text=GERALT%20ROGER&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=АРХИТЕКТОР%20ЦИФРОВОЙ%20ЭВОЛЮЦИИ&descSize=16&descColor=fff0a0&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:9c6900,20:dba900,50:ffcf24,80:f5c928,100:b8860b&height=200&section=header&text=GERALT%20ROGER&fontSize=62&fontColor=fff9df&fontAlignY=38&desc=АРХИТЕКТОР%20ЦИФРОВОЙ%20ЭВОЛЮЦИИ&descSize=16&descColor=fff0ad&descAlignY=62)
 
 > **«Пока другие пытаются стать лучшими — я уже занят тем, что им ещё только предстоит понять».**
 
