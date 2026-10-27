@@ -44,5 +44,5 @@ Telegram-боты — одно из направлений, в котором я
 ### ⚔️ Реликвии и инструменты
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,asm,java,cs,js,ts,html,css,php,rust,go,bash,powershell,linux,ubuntu,windows,git,github,vscode,visualstudio,neovim,docker,cmake,mysql,sqlite,postgres,redis,nginx,arduino,raspberrypi&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,asm,java,cs,js,ts,html,css,php,rust,go,bash,powershell,linux,ubuntu,windows,git,github,vscode,visualstudio,neovim,docker,cmake,mysql,sqlite,postgres,redis,nginx,arduino,raspberrypi&theme=dark&perline=5" />
 </p>
