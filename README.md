@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=300&section=header&text=GERALT%20ROGER&fontSize=76&fontColor=fff0b3&fontAlignY=38&desc=АРХИТЕКТОР%20СОБСТВЕННОЙ%20ИМПЕРИИ&descSize=19&descColor=ead08a&descAlignY=60&width=2000)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=200&section=header&text=GERALT%20ROGER&fontSize=62&fontColor=fff0b3&fontAlignY=38&desc=АРХИТЕКТОР%20СОБСТВЕННОЙ%20ИМПЕРИИ&descSize=16&descColor=ead08a&descAlignY=62)
 
 > **«Пока другие пытаются стать лучшими — я уже занят тем, что им ещё только предстоит понять».**
 
@@ -14,29 +14,27 @@ Telegram-боты — одно из направлений, в котором я
 
 Мне интересны не просто отдельные боты, а полноценные системы: с логикой, взаимодействием между компонентами, обработкой данных и возможностью дальнейшего развития. Проект должен решать задачу сегодня и оставаться пригодным для расширения завтра.
 
-Я предпочитаю разбираться в проблеме до её основания, а не маскировать симптомы временными исправлениями. Для меня важны самостоятельность, контроль над реализацией и понимание каждого ключевого решения.
-
 ### ⚙ За пределами обычных программ
 
 Мой интерес не заканчивается на прикладной разработке. Низкоуровневое программирование, устройство процессоров, память, операционные системы и взаимодействие программ с аппаратным обеспечением — всё это части одной большой картины.
 
-Мне важно понимать не только *как* работает программа, но и *почему* она работает именно так. Такой подход помогает выбирать правильные инструменты, находить причины ошибок и проектировать решения без лишней сложности.
+Мне важно понимать не только *как* работает программа, но и *почему* она работает именно так. Чем глубже понимание технологий, тем больше свободы в создании собственных решений.
 
-**Моя цель — не просто использовать технологии, а понимать их достаточно глубоко, чтобы создавать собственные решения на разных уровнях системы.**
+### ♛ Статистика королевства
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=8KOHAN&show_icons=true&include_all_commits=true&hide_border=true&bg_color=120d05&title_color=e5c158&text_color=d6c69b&icon_color=c9a227&card_width=495" width="100%" />
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8KOHAN&layout=compact&hide_border=true&bg_color=120d05&title_color=e5c158&text_color=d6c69b&card_width=495" width="100%" />
     </td>
   </tr>
 </table>
 
+### ♜ Арсенал короля
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,bash,linux,git,github,vscode&theme=dark" />
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=150&section=footer&width=2000)
