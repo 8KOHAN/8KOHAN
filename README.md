@@ -67,11 +67,9 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="64" height="64" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=firefox&theme=dark" width="64" height="64" alt="Firefox" />
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" height="64" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" width="64" height="64" alt="Android" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="64" height="64" alt="Ubuntu" />
 </p>
 
