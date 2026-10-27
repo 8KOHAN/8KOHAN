@@ -81,3 +81,11 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-18181B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-18181B?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
