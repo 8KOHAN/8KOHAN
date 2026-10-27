@@ -71,7 +71,6 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" height="64" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="64" height="64" alt="Ubuntu" />
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" width="64" height="64" alt="Android" />
 </p>
 
 <!-- Уровень 2: готовые бейджи md-badges -->
