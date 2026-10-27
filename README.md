@@ -71,6 +71,4 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-18181B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-18181B?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
