@@ -65,10 +65,10 @@ Telegram-боты — одно из направлений, в котором я
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-18181B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/FSD-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Verse-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-18181B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/FSD-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" />
 </p>
