@@ -1,8 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=220&section=header&text=GERALT%20ROGER&fontSize=58&fontColor=fff0b3&fontAlignY=38&desc=АРХИТЕКТОР%20СОБСТВЕННОЙ%20ИМПЕРИИ&descSize=15&descColor=ead08a&descAlignY=62)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,bash,linux,git,github,vscode&theme=dark" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=300&section=header&text=GERALT%20ROGER&fontSize=76&fontColor=fff0b3&fontAlignY=38&desc=АРХИТЕКТОР%20СОБСТВЕННОЙ%20ИМПЕРИИ&descSize=19&descColor=ead08a&descAlignY=60&width=2000)
 
 > **«Пока другие пытаются стать лучшими — я уже занят тем, что им ещё только предстоит понять».**
 
@@ -43,14 +39,18 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=8KOHAN&show_icons=true&include_all_commits=true&hide_border=true&bg_color=120d05&title_color=e5c158&text_color=d6c69b&icon_color=c9a227" width="100%" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=8KOHAN&show_icons=true&include_all_commits=true&hide_border=true&bg_color=120d05&title_color=e5c158&text_color=d6c69b&icon_color=c9a227&card_width=495" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8KOHAN&layout=compact&hide_border=true&bg_color=120d05&title_color=e5c158&text_color=d6c69b" width="100%" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8KOHAN&layout=compact&hide_border=true&bg_color=120d05&title_color=e5c158&text_color=d6c69b&card_width=495" width="100%" />
     </td>
   </tr>
 </table>
+
+Моя статистика — отражение работы, а не соревнование ради цифр. Каждый репозиторий, каждый эксперимент и каждая новая технология становятся частью опыта, который позволяет браться за более сложные задачи.
+
+---
 
 ### ⚒ Арсенал короля
 
@@ -58,20 +58,14 @@
   <img src="https://skillicons.dev/icons?i=asm,c,cpp,python,bash,linux,git,github,vscode&theme=dark" />
 </p>
 
-Мой арсенал не ограничивается одним языком или направлением. Низкоуровневое программирование помогает понимать устройство вычислительных систем, высокоуровневые языки позволяют быстрее воплощать идеи, а Linux и инструменты разработки дают среду для экспериментов и создания собственных решений.
+Мой арсенал не ограничивается одним языком или направлением. Низкоуровневое программирование помогает понимать устройство вычислительных систем, высокоуровневые языки позволяют воплощать идеи, а Linux и инструменты разработки дают среду для экспериментов и создания собственных решений.
 
 Я выбираю технологии под задачу, а не задачу под технологии. Если готового инструмента недостаточно, можно изучить его устройство, изменить подход или создать собственный.
 
-Моя цель — не просто пользоваться технологиями, а понимать их настолько глубоко, чтобы превращать сложные замыслы в работающие системы.
-
----
-
-<p align="center">
-
 **КОРОЛИ НЕ ИЩУТ МЕСТО В ИСТОРИИ. ОНИ ОСТАВЛЯЮТ В НЕЙ СВОЙ СЛЕД.**
 
-<sub>GERALT ROGER · 8KOHAN</sub>
-
+<p align="center">
+  <sub>GERALT ROGER · 8KOHAN</sub>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,40:6b4b12,75:c9a227,100:6b4b12&height=150&section=footer&width=2000)
