@@ -75,8 +75,6 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="64" height="64" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="64" height="64" alt="Ubuntu" />
 </p>
 
 <!-- Уровень 2: готовые бейджи -->
@@ -103,6 +101,7 @@ Telegram-боты — одно из направлений, в котором я
 
   <!-- ОС, управление и пакеты -->
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
   <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" alt="NuGet" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm" />
