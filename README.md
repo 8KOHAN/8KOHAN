@@ -87,12 +87,4 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-000?logo=openai&logoColor=fff" />
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
-  <img src="https://img.shields.io/badge/pytest-18181B?logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-18181B?logo=sqlalchemy&logoColor=D71F00" />
-  <img src="https://img.shields.io/badge/asyncio-18181B?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-18181B?logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-18181B?logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-18181B" />
-  <img src="https://img.shields.io/badge/SOLID-18181B" />
-  <img src="https://img.shields.io/badge/ORM-18181B" />
 </p>
