@@ -53,11 +53,13 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" height="64" alt="React" />
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" height="64" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" height="64" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="64" height="64" alt="C Sharp" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="64" height="64" alt="C#" />
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" alt="C++" />
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="64" height="64" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" alt="Unreal Engine" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="64" height="64" alt="PyCharm" />
@@ -67,13 +69,12 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="64" height="64" alt="Redis" />
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="64" height="64" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="64" height="64" alt="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="64" height="64" alt="Ubuntu" />
+  <img src="https://skillicons.dev/icons?i=android&theme=dark" width="64" height="64" alt="Android" />
 </p>
 
-<!-- Уровень 2: готовые бейджи из md-badges -->
+<!-- Уровень 2: готовые бейджи -->
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude" />
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini" />
@@ -83,13 +84,13 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" alt="Swagger" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
-  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
-[![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)
-[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white)](#)
-[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" alt="NuGet" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff" alt="pnpm" />
+  <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPI" />
+  <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" alt="PowerShell" />
 </p>
 
 <!-- Уровень 3: собственные бейджи Shields.io -->
@@ -100,7 +101,6 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/aiogram-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" alt="SQLAlchemy" />
   <img src="https://img.shields.io/badge/pytest-18181B?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
   <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
@@ -116,6 +116,4 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" alt="SOLID" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
