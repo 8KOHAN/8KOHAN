@@ -81,27 +81,3 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
 </p>
-
-### ИИ-инструменты
-
-<p>
-  <a href="https://claude.com/product/claude-code">
-    <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" height="48" alt="Claude Code" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://openai.com/codex/">
-    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gemini.google.com/">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="48" height="48" alt="Gemini" />
-  </a>
-</p>
-
-<p>
-  <a href="https://claude.com/product/claude-code">Claude Code</a>
-  &nbsp; · &nbsp;
-  <a href="https://openai.com/codex/">OpenAI Codex</a>
-  &nbsp; · &nbsp;
-  <a href="https://gemini.google.com/">Gemini</a>
-</p>
