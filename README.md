@@ -83,9 +83,16 @@ Telegram-боты — одно из направлений, в котором я
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-18181B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-18181B?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-000?logo=openai&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" />
+  <img src="https://img.shields.io/badge/pytest-18181B?logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-18181B?logo=sqlalchemy&logoColor=D71F00" />
+  <img src="https://img.shields.io/badge/asyncio-18181B?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-18181B?logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-18181B?logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-18181B" />
+  <img src="https://img.shields.io/badge/SOLID-18181B" />
+  <img src="https://img.shields.io/badge/ORM-18181B" />
 </p>
