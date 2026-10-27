@@ -41,10 +41,7 @@ Telegram-боты — одно из направлений, в котором я
   </tr>
 </table>
 
-<h3>
-  <img src="https://img.shields.io/badge/%E2%99%9B-C9A227?style=flat&labelColor=120d05" height="22" alt="♛" />
-  Арсенал короля
-</h3>
+### ♞ Арсенал короля
 
 <!-- Уровень 1: большие иконки Skill Icons -->
 <p>
