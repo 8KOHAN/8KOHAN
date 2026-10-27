@@ -43,6 +43,7 @@ Telegram-боты — одно из направлений, в котором я
 
 ### ⚔ Арсенал короля
 
+<!-- Main icons: Skill Icons -->
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" />
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" />
@@ -64,7 +65,7 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="64" height="64" />
 </p>
 
-<!-- AI Tools -->
+<!-- AI tools -->
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff" />
@@ -78,22 +79,22 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/aiogram-18181B?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-18181B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/FSD-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-18181B?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/ORM-18181B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQLAlchemy-18181B?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00" />
-  <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-18181B?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/asyncio-18181B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-18181B?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-18181B?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
   <img src="https://img.shields.io/badge/OpenAPI-18181B?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" />
   <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Redis-18181B?style=for-the-badge&logo=redis&logoColor=FF4438" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-18181B?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/WebSocket-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FSD-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ORM-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" />
 </p>
