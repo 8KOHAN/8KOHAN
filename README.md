@@ -41,8 +41,19 @@ Telegram-боты — одно из направлений, в котором я
   </tr>
 </table>
 
-### ⚔️ Реликвии и инструменты
+### ⚔ Арсенал короля
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,asm,java,cs,js,ts,html,css,php,rust,go,bash,powershell,linux,ubuntu,windows,git,github,vscode,visualstudio,neovim,docker,cmake,mysql,sqlite,postgres,redis,nginx,arduino,raspberrypi&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=asm&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" height="64" />
 </p>
