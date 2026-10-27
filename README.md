@@ -83,6 +83,13 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" alt="Swagger" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white)](#)
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
 </p>
 
 <!-- Уровень 3: собственные бейджи Shields.io -->
@@ -108,4 +115,7 @@ Telegram-боты — одно из направлений, в котором я
   <img src="https://img.shields.io/badge/ADO.NET-18181B?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ADO.NET" />
   <img src="https://img.shields.io/badge/OOP-18181B?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/SOLID-18181B?style=for-the-badge" alt="SOLID" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
