@@ -75,34 +75,34 @@
 <!-- Уровень 1: большие иконки Skill Icons -->
 <p>
   <!-- Языки программирования и веб -->
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="64" height="64" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="64" height="64" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="64" height="64" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="64" height="64" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="64" height="64" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="64" height="64" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="64" height="64" alt="React" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" height="60" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="60" height="60" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" height="60" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" height="60" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="60" height="60" alt="React" />
 
   <!-- Фреймворки и платформы -->
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="64" height="64" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="64" height="64" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="64" height="64" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="64" height="64" alt="Unreal Engine" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" height="60" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="60" height="60" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="60" height="60" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="60" height="60" alt="Unreal Engine" />
 
   <!-- Базы данных и инфраструктура -->
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="64" height="64" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="64" height="64" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="64" height="64" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" height="64" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60" height="60" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="60" height="60" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="60" height="60" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60" height="60" alt="Docker" />
 
   <!-- Среда разработки и инструменты -->
-  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="64" height="64" alt="PyCharm" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="64" height="64" alt="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="64" height="64" alt="Visual Studio" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="64" height="64" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="60" height="60" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60" height="60" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="60" height="60" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="60" height="60" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60" height="60" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="60" height="60" alt="GitHub" />
 </p>
 
 <!-- Уровень 2: готовые бейджи -->
