@@ -88,13 +88,11 @@
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60" height="60" alt="FastAPI" />
   <img src="https://skillicons.dev/icons?i=django&theme=dark" width="60" height="60" alt="Django" />
   <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="60" height="60" alt=".NET" />
-  <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="60" height="60" alt="Unreal Engine" />
 
   <!-- Базы данных и инфраструктура -->
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60" height="60" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="60" height="60" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="60" height="60" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60" height="60" alt="Docker" />
 
   <!-- Среда разработки и инструменты -->
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="60" height="60" alt="PyCharm" />
@@ -131,8 +129,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
   <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" alt="NuGet" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" alt="npm" />
-  <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff" alt="pnpm" />
-  <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff" alt="PyPI" />
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff" alt="PowerShell" />
 
   <!-- Практики и тестирование -->
@@ -142,10 +138,6 @@
 
 <!-- Уровень 3: собственные бейджи Shields.io -->
 <p>
-  <!-- Разработка игр -->
-  <img src="https://img.shields.io/badge/UEFN-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UEFN" />
-  <img src="https://img.shields.io/badge/Verse-18181B?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Verse" />
-
   <!-- Боты и AI-разработка -->
   <img src="https://img.shields.io/badge/Telegram%20Bots-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
   <img src="https://img.shields.io/badge/aiogram-18181B?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
